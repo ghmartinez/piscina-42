@@ -1,4 +1,4 @@
-# Piscina de la Escuela 42 - Mis Ejercicios y Proyectos en C
+# Piscina de la Escuela 42 - Mis Ejercicios y Proyectos
 
 ¡Bienvenido a mi repositorio de la piscina de la Escuela 42! Aquí documentaré mis logros y progreso a medida que complete los ejercicios y proyectos del curso de programación en C. ¡Vamos a sumergirnos en el emocionante mundo de la programación!
 
@@ -8,13 +8,13 @@ En este repositorio, encontrarás una colección de mis soluciones a los ejercic
 
 ## Organización del Repositorio
 
-El repositorio se organiza por semanas y días, reflejando mi progreso a lo largo de la piscina. Cada día puede incluir ejercicios y proyectos que he completado. A medida que avance, actualizaré este README con nuevos logros.
+El repositorio se organiza por ejercicios y proyectos, reflejando mi progreso a lo largo de la piscina. Cada día puede incluir ejercicios y proyectos que he completado. A medida que avance, actualizaré este README con nuevos logros.
 
 ## Contacto
 
 Si estás realizando la piscina también o simplemente quieres hablar sobre programación, ¡estaré encantado de conectarme contigo!
 
-- GitHub: [tuusuario](https://github.com/ghmartinez)
+- GitHub: [ghmartinez](https://github.com/ghmartinez)
 - Correo electrónico: ghmartinez96@hotmail.com
 
 ---
