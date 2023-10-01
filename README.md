@@ -18,4 +18,4 @@ Si estás realizando la piscina también o simplemente quieres hablar sobre prog
 - Correo electrónico: ghmartinez96@hotmail.com
 
 ---
-*Última actualización: 15/08/2023*
+*Última actualización: 31/08/2023*
